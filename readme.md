@@ -52,6 +52,7 @@ The app uses **Natural Earth** vector tiles (converted to PMTiles) for countries
 ```bash
 git clone https://github.com/yourusername/find-the-world.git
 cd find-the-world
+```bash
 
 2. Serve the app locally:
 
@@ -62,3 +63,4 @@ python -m http.server 8080
 3. Open in your browser:
 
 http://localhost:8080/app.html
+
