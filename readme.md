@@ -46,10 +46,11 @@ The app uses **Natural Earth** vector tiles (converted to PMTiles) for countries
 - **Tile Sources**: Natural Earth vector datasets, converted to PMTiles  
 - **Raster Basemap**: CARTO Dark theme (`dark_nolabels`)  
 
-### Installation & Development
+### Installation
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/find-the-world.git
 cd find-the-world
+
 
