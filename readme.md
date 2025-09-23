@@ -57,10 +57,8 @@ cd find-the-world
 
 # Using Python HTTP server
 
-```bash
 python -m http.server 8080
 
 3. Open in your browser:
 
-```bash
 http://localhost:8080/app.html
