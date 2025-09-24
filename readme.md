@@ -14,7 +14,7 @@
 ## 🌐 Live Demo
 
 Try the app directly in your browser:  
-[https://pub-1986f349473349489dd23c0053575aad.r2.dev/app_data/app.html](https://pub-1986f349473349489dd23c0053575aad.r2.dev/app_data/app.html)
+[[https://pub-1986f349473349489dd23c0053575aad.r2.dev/app_data/app.html](https://pub-1986f349473349489dd23c0053575aad.r2.dev/app_data/app.html](https://pub-1986f349473349489dd23c0053575aad.r2.dev/app_data/app-1.html)
 
 ---
 
@@ -52,5 +52,6 @@ The app uses **Natural Earth** vector tiles (converted to PMTiles) for countries
 ```bash
 git clone https://github.com/yourusername/find-the-world.git
 cd find-the-world
+
 
 
